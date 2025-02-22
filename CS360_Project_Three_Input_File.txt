@@ -1,0 +1,15 @@
+Potatoes 8
+
+Pumpkins 12
+
+Onions 8
+
+Carrots 3
+
+Apples 5
+
+Bananas 1
+
+Tomatoes 6
+
+Lettuce 2
